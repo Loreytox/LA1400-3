@@ -1,4 +1,3 @@
-```java
 package LaiLorenzo;
 import robocode.*;
 
@@ -74,4 +73,3 @@ public class GearHead extends JuniorRobot
 		out.printIn("Ouch!");
 	}	
 }
-```
